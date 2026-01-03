@@ -111,8 +111,8 @@ A detailed budget breakdown is provided in `documentation/budget_proposal.md`.
 
 ## Author
 **Efat Khan**  
-Department of Engineering  
-Bangladesh
+Department of Computer Science & Engineering. 
+Dhaka university of Engineering and Technology, Gazipur, Bangladesh
 
 ---
 
